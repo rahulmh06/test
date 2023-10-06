@@ -1,0 +1,3107 @@
+
+03-Oct-2023 12:03:06:430 PM : Success PrepareMessage() :DBBBATCHNO_VAROCRDATAEXP_VAR31/07/2025GTIN_VAR78903819165759MFG_VAR03/10/2023HRF_MFG03/10/2023HRF_EXP31/07/2025HRF1_VARHRF2_VARHRF3_VARHRF4_VARHRF5_VARHRF6_VARRegulatoryUS HDA 2017PrinterLabelIDQuantity100ProductdescriptionTesting purposeAvailableQuantity0BatchNumberOCRDATATotalCameraInspected0CameraAccepted0CameraRejected0BatchSize100ProductNameTest12345(01)1(21)2(17)3(10)4(01)78903819165759(17)250731(10)OCRDATAURL0D:\TnTFiles\ServiceLog\SerialNumbers.txt
+
+
+03-Oct-2023 12:03:06:431 PM : Data have been Sent in SendMessage() : DBBBATCHNO_VAROCRDATAEXP_VAR31/07/2025GTIN_VAR78903819165759MFG_VAR03/10/2023HRF_MFG03/10/2023HRF_EXP31/07/2025HRF1_VARHRF2_VARHRF3_VARHRF4_VARHRF5_VARHRF6_VARRegulatoryUS HDA 2017PrinterLabelIDQuantity100ProductdescriptionTesting purposeAvailableQuantity0BatchNumberOCRDATATotalCameraInspected0CameraAccepted0CameraRejected0BatchSize100ProductNameTest12345(01)1(21)2(17)3(10)4(01)78903819165759(17)250731(10)OCRDATAURL0D:\TnTFiles\ServiceLog\SerialNumbers.txt
+
+
+03-Oct-2023 12:03:06:432 PM : Success PrepareMessage() :DONDBB
+
+
+03-Oct-2023 12:03:06:433 PM : Data have been Sent in SendMessage() : DONDBB
+
+
+03-Oct-2023 12:03:07:787 PM : Data Received In HandleClient() : DWQ16390
+
+
+03-Oct-2023 12:03:09:844 PM : Success PrepareMessage() :DWND:\TnTFiles\ServiceLog\SerialNumbers.txt
+
+
+03-Oct-2023 12:03:09:845 PM : Data have been Sent in SendMessage() : DWND:\TnTFiles\ServiceLog\SerialNumbers.txt
+
+
+03-Oct-2023 12:03:09:846 PM : Success PrepareMessage() :DONDWQ
+
+
+03-Oct-2023 12:03:09:847 PM : Data have been Sent in SendMessage() : DONDWQ
+
+
+03-Oct-2023 12:03:25:368 PM : Data Received In HandleClient() : UPST7CTRRF7P21ZR12023-10-03 12:03:25.366T
+
+
+03-Oct-2023 12:03:25:369 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:03:25:369 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:03:25:370 PM : Data Received In HandleClient() : UPS7H22ERT0D7Z2EA2023-10-03 12:03:25.367T
+
+
+03-Oct-2023 12:03:25:371 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:03:25:372 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:03:54:954 PM : Data Received In HandleClient() : UPSZYM3262RKTBCX82023-10-03 12:03:54.953T
+
+
+03-Oct-2023 12:03:54:954 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:03:54:955 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:04:28:003 PM : Data Received In HandleClient() : UPSYEP46S5F2T3X582023-10-03 12:04:28.002T
+
+
+03-Oct-2023 12:04:28:004 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:04:28:004 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:04:28:494 PM : Data Received In HandleClient() : UPSY8583YPZG1FDSN2023-10-03 12:04:28.493T
+
+
+03-Oct-2023 12:04:28:495 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:04:28:496 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:04:51:526 PM : Data Received In HandleClient() : UPSSCGN33AD98B29A2023-10-03 12:04:51.526T
+
+
+03-Oct-2023 12:04:51:527 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:04:51:528 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:07:33:407 PM : Data Received In HandleClient() : URST7CTRRF7P21ZR12023-10-03 12:03:25.377T
+
+
+03-Oct-2023 12:07:33:571 PM : Success PrepareMessage() :DONURS
+
+
+03-Oct-2023 12:07:33:572 PM : Data have been Sent in SendMessage() : DONURS
+
+
+03-Oct-2023 12:07:33:573 PM : Data Received In HandleClient() : URS7H22ERT0D7Z2EA2023-10-03 12:03:25.622T
+URSZYM3262RKTBCX82023-10-03 12:03:54.963T
+URSYEP46S5F2T3X582023-10-03 12:04:28.012T
+URSY8583YPZG1FDSN2023-10-03 12:04:28.503T
+URSSCGN33AD98B29A2023-10-03 12:04:51.536T
+
+
+03-Oct-2023 12:07:33:674 PM : Success PrepareMessage() :DONURS
+
+
+03-Oct-2023 12:07:33:675 PM : Data have been Sent in SendMessage() : DONURS
+
+
+03-Oct-2023 12:07:33:771 PM : Success PrepareMessage() :DONURS
+
+
+03-Oct-2023 12:07:33:771 PM : Data have been Sent in SendMessage() : DONURS
+
+
+03-Oct-2023 12:07:33:870 PM : Success PrepareMessage() :DONURS
+
+
+03-Oct-2023 12:07:33:870 PM : Data have been Sent in SendMessage() : DONURS
+
+
+03-Oct-2023 12:07:33:965 PM : Success PrepareMessage() :DONURS
+
+
+03-Oct-2023 12:07:33:965 PM : Data have been Sent in SendMessage() : DONURS
+
+
+03-Oct-2023 12:07:34:062 PM : Success PrepareMessage() :DONURS
+
+
+03-Oct-2023 12:07:34:063 PM : Data have been Sent in SendMessage() : DONURS
+
+
+03-Oct-2023 12:07:35:410 PM : Data Received In HandleClient() : BYE
+
+
+03-Oct-2023 12:07:35:411 PM : Success PrepareMessage() :BYE
+
+
+03-Oct-2023 12:07:35:412 PM : Data have been Sent in SendMessage() : BYE
+
+
+03-Oct-2023 12:07:35:413 PM : Success PrepareMessage() :DONBYE
+
+
+03-Oct-2023 12:07:35:414 PM : Data have been Sent in SendMessage() : DONBYE
+
+
+03-Oct-2023 12:07:35:415 PM : Vision client disconnected 
+
+03-Oct-2023 12:07:51:586 PM : Vision client connected 
+
+03-Oct-2023 12:07:51:587 PM : GOM send timer interval : 5000
+
+03-Oct-2023 12:07:51:588 PM : Data Received In HandleClient() : TST
+
+
+03-Oct-2023 12:07:51:589 PM : Success PrepareMessage() :TST
+
+
+03-Oct-2023 12:07:51:590 PM : Data have been Sent in SendMessage() : TST
+
+
+03-Oct-2023 12:07:51:590 PM : Success PrepareMessage() :DONTST
+
+
+03-Oct-2023 12:07:51:591 PM : Data have been Sent in SendMessage() : DONTST
+
+
+03-Oct-2023 12:07:51:693 PM : Data Received In HandleClient() : DMT1
+
+
+03-Oct-2023 12:07:51:693 PM : Success PrepareMessage() :DONDMT
+
+
+03-Oct-2023 12:07:51:696 PM : Data have been Sent in SendMessage() : DONDMT
+
+
+03-Oct-2023 12:07:51:727 PM : Data Received In HandleClient() : DPO
+
+
+03-Oct-2023 12:07:52:861 PM : Success PrepareMessage() :DPOD:\TnTFiles\ServiceLog\productionOrders.txt
+
+
+03-Oct-2023 12:07:52:862 PM : Data have been Sent in SendMessage() : DPOD:\TnTFiles\ServiceLog\productionOrders.txt
+
+
+03-Oct-2023 12:07:52:862 PM : Success PrepareMessage() :DONDPO
+
+
+03-Oct-2023 12:07:52:863 PM : Data have been Sent in SendMessage() : DONDPO
+
+
+03-Oct-2023 12:07:55:761 PM : Data Received In HandleClient() : DBB1639
+
+
+03-Oct-2023 12:07:57:291 PM : Success PrepareMessage() :DBBBATCHNO_VAROCRDATAEXP_VAR31/07/2025GTIN_VAR78903819165759MFG_VAR03/10/2023HRF_MFG03/10/2023HRF_EXP31/07/2025HRF1_VARHRF2_VARHRF3_VARHRF4_VARHRF5_VARHRF6_VARRegulatoryUS HDA 2017PrinterLabelIDQuantity100ProductdescriptionTesting purposeAvailableQuantity94BatchNumberOCRDATATotalCameraInspected0CameraAccepted0CameraRejected0BatchSize100ProductNameTest12345(01)1(21)2(17)3(10)4(01)78903819165759(17)250731(10)OCRDATAURL0D:\TnTFiles\ServiceLog\SerialNumbers.txt
+
+
+03-Oct-2023 12:07:57:292 PM : Data have been Sent in SendMessage() : DBBBATCHNO_VAROCRDATAEXP_VAR31/07/2025GTIN_VAR78903819165759MFG_VAR03/10/2023HRF_MFG03/10/2023HRF_EXP31/07/2025HRF1_VARHRF2_VARHRF3_VARHRF4_VARHRF5_VARHRF6_VARRegulatoryUS HDA 2017PrinterLabelIDQuantity100ProductdescriptionTesting purposeAvailableQuantity94BatchNumberOCRDATATotalCameraInspected0CameraAccepted0CameraRejected0BatchSize100ProductNameTest12345(01)1(21)2(17)3(10)4(01)78903819165759(17)250731(10)OCRDATAURL0D:\TnTFiles\ServiceLog\SerialNumbers.txt
+
+
+03-Oct-2023 12:07:57:293 PM : Success PrepareMessage() :DONDBB
+
+
+03-Oct-2023 12:07:57:294 PM : Data have been Sent in SendMessage() : DONDBB
+
+
+03-Oct-2023 12:08:04:340 PM : Data Received In HandleClient() : UPS4X7X7RX3Y8PT2R2023-10-03 12:08:04.339T
+
+
+03-Oct-2023 12:08:04:341 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:08:04:342 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:08:04:343 PM : Data Received In HandleClient() : UPSEN3RZM2AHZYXNX2023-10-03 12:08:04.339T
+
+
+03-Oct-2023 12:08:04:344 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:08:04:345 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:08:10:160 PM : Data Received In HandleClient() : UPS927BF9XF0AXCCZ2023-10-03 12:08:10.159T
+
+
+03-Oct-2023 12:08:10:161 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:08:10:162 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:08:19:690 PM : Data Received In HandleClient() : UPSTY2MBEMZMEF5802023-10-03 12:08:19.689T
+
+
+03-Oct-2023 12:08:19:691 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:08:19:692 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:31:10:014 PM : Data Received In HandleClient() : URS4X7X7RX3Y8PT2R2023-10-03 12:08:04.350T
+
+
+03-Oct-2023 12:31:10:117 PM : Success PrepareMessage() :DONURS
+
+
+03-Oct-2023 12:31:10:118 PM : Data have been Sent in SendMessage() : DONURS
+
+
+03-Oct-2023 12:31:10:118 PM : Data Received In HandleClient() : URSEN3RZM2AHZYXNX2023-10-03 12:08:04.360T
+URS927BF9XF0AXCCZ2023-10-03 12:08:10.170T
+URSTY2MBEMZMEF5802023-10-03 12:08:19.700T
+
+
+03-Oct-2023 12:31:10:214 PM : Success PrepareMessage() :DONURS
+
+
+03-Oct-2023 12:31:10:215 PM : Data have been Sent in SendMessage() : DONURS
+
+
+03-Oct-2023 12:31:10:309 PM : Success PrepareMessage() :DONURS
+
+
+03-Oct-2023 12:31:10:310 PM : Data have been Sent in SendMessage() : DONURS
+
+
+03-Oct-2023 12:31:10:402 PM : Success PrepareMessage() :DONURS
+
+
+03-Oct-2023 12:31:10:403 PM : Data have been Sent in SendMessage() : DONURS
+
+
+03-Oct-2023 12:31:12:016 PM : Data Received In HandleClient() : BYE
+
+
+03-Oct-2023 12:31:12:017 PM : Success PrepareMessage() :BYE
+
+
+03-Oct-2023 12:31:12:018 PM : Data have been Sent in SendMessage() : BYE
+
+
+03-Oct-2023 12:31:12:019 PM : Success PrepareMessage() :DONBYE
+
+
+03-Oct-2023 12:31:12:019 PM : Data have been Sent in SendMessage() : DONBYE
+
+
+03-Oct-2023 12:31:12:020 PM : Vision client disconnected 
+
+03-Oct-2023 12:31:25:725 PM : Vision client connected 
+
+03-Oct-2023 12:31:25:727 PM : GOM send timer interval : 5000
+
+03-Oct-2023 12:31:25:728 PM : Data Received In HandleClient() : TST
+
+
+03-Oct-2023 12:31:25:729 PM : Success PrepareMessage() :TST
+
+
+03-Oct-2023 12:31:25:730 PM : Data have been Sent in SendMessage() : TST
+
+
+03-Oct-2023 12:31:25:731 PM : Success PrepareMessage() :DONTST
+
+
+03-Oct-2023 12:31:25:732 PM : Data have been Sent in SendMessage() : DONTST
+
+
+03-Oct-2023 12:31:25:834 PM : Data Received In HandleClient() : DMT1
+
+
+03-Oct-2023 12:31:25:835 PM : Success PrepareMessage() :DONDMT
+
+
+03-Oct-2023 12:31:25:837 PM : Data have been Sent in SendMessage() : DONDMT
+
+
+03-Oct-2023 12:31:25:873 PM : Data Received In HandleClient() : DPO
+
+
+03-Oct-2023 12:31:27:144 PM : Success PrepareMessage() :DPOD:\TnTFiles\ServiceLog\productionOrders.txt
+
+
+03-Oct-2023 12:31:27:145 PM : Data have been Sent in SendMessage() : DPOD:\TnTFiles\ServiceLog\productionOrders.txt
+
+
+03-Oct-2023 12:31:27:146 PM : Success PrepareMessage() :DONDPO
+
+
+03-Oct-2023 12:31:27:146 PM : Data have been Sent in SendMessage() : DONDPO
+
+
+03-Oct-2023 12:31:44:846 PM : Data Received In HandleClient() : DBB1639
+
+
+03-Oct-2023 12:31:47:036 PM : Success PrepareMessage() :DBBBATCHNO_VAROCRDATAEXP_VAR31/07/2025GTIN_VAR78903819165759MFG_VAR03/10/2023HRF_MFG03/10/2023HRF_EXP31/07/2025HRF1_VARHRF2_VARHRF3_VARHRF4_VARHRF5_VARHRF6_VARRegulatoryUS HDA 2017PrinterLabelIDQuantity100ProductdescriptionTesting purposeAvailableQuantity90BatchNumberOCRDATATotalCameraInspected0CameraAccepted0CameraRejected0BatchSize100ProductNameTest12345(01)1(21)2(17)3(10)4(01)78903819165759(17)250731(10)OCRDATAURL0D:\TnTFiles\ServiceLog\SerialNumbers.txt
+
+
+03-Oct-2023 12:31:47:037 PM : Data have been Sent in SendMessage() : DBBBATCHNO_VAROCRDATAEXP_VAR31/07/2025GTIN_VAR78903819165759MFG_VAR03/10/2023HRF_MFG03/10/2023HRF_EXP31/07/2025HRF1_VARHRF2_VARHRF3_VARHRF4_VARHRF5_VARHRF6_VARRegulatoryUS HDA 2017PrinterLabelIDQuantity100ProductdescriptionTesting purposeAvailableQuantity90BatchNumberOCRDATATotalCameraInspected0CameraAccepted0CameraRejected0BatchSize100ProductNameTest12345(01)1(21)2(17)3(10)4(01)78903819165759(17)250731(10)OCRDATAURL0D:\TnTFiles\ServiceLog\SerialNumbers.txt
+
+
+03-Oct-2023 12:31:47:037 PM : Success PrepareMessage() :DONDBB
+
+
+03-Oct-2023 12:31:47:038 PM : Data have been Sent in SendMessage() : DONDBB
+
+
+03-Oct-2023 12:32:01:381 PM : Data Received In HandleClient() : UPS1R4KA29FKNFMPS2023-10-03 12:32:01.380T
+
+
+03-Oct-2023 12:32:01:382 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:32:01:383 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:32:01:383 PM : Data Received In HandleClient() : UPSDEACKPAGTDSP6Y2023-10-03 12:32:01.380T
+
+
+03-Oct-2023 12:32:01:384 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:32:01:385 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:32:29:089 PM : Data Received In HandleClient() : UPS066ZP08AZT8YSA2023-10-03 12:32:29.088T
+
+
+03-Oct-2023 12:32:29:090 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:32:29:091 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:32:49:208 PM : Data Received In HandleClient() : UPSR9YZ489S6F1M9F2023-10-03 12:32:49.207T
+
+
+03-Oct-2023 12:32:49:209 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:32:49:210 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:34:50:980 PM : Data Received In HandleClient() : URS1R4KA29FKNFMPS2023-10-03 12:32:01.391T
+
+
+03-Oct-2023 12:34:51:085 PM : Success PrepareMessage() :DONURS
+
+
+03-Oct-2023 12:34:51:086 PM : Data have been Sent in SendMessage() : DONURS
+
+
+03-Oct-2023 12:34:51:087 PM : Data Received In HandleClient() : URSDEACKPAGTDSP6Y2023-10-03 12:32:01.581T
+URS066ZP08AZT8YSA2023-10-03 12:32:29.099T
+URSR9YZ489S6F1M9F2023-10-03 12:32:49.218T
+MAP16391639 - OCRDATA - OCRDATA-Test1234519HDA_ALL_VAR
+
+
+03-Oct-2023 12:34:51:184 PM : Success PrepareMessage() :DONURS
+
+
+03-Oct-2023 12:34:51:184 PM : Data have been Sent in SendMessage() : DONURS
+
+
+03-Oct-2023 12:34:51:279 PM : Success PrepareMessage() :DONURS
+
+
+03-Oct-2023 12:34:51:280 PM : Data have been Sent in SendMessage() : DONURS
+
+
+03-Oct-2023 12:34:51:375 PM : Success PrepareMessage() :DONURS
+
+
+03-Oct-2023 12:34:51:375 PM : Data have been Sent in SendMessage() : DONURS
+
+
+03-Oct-2023 12:34:51:385 PM : Success PrepareMessage() :DONMAP
+
+
+03-Oct-2023 12:34:51:386 PM : Data have been Sent in SendMessage() : DONMAP
+
+
+03-Oct-2023 12:34:53:895 PM : Data Received In HandleClient() : BYE
+
+
+03-Oct-2023 12:34:53:897 PM : Success PrepareMessage() :BYE
+
+
+03-Oct-2023 12:34:53:897 PM : Data have been Sent in SendMessage() : BYE
+
+
+03-Oct-2023 12:34:53:899 PM : Success PrepareMessage() :DONBYE
+
+
+03-Oct-2023 12:34:53:899 PM : Data have been Sent in SendMessage() : DONBYE
+
+
+03-Oct-2023 12:34:53:900 PM : Vision client disconnected 
+
+03-Oct-2023 12:34:58:334 PM : Vision client connected 
+
+03-Oct-2023 12:34:58:335 PM : GOM send timer interval : 5000
+
+03-Oct-2023 12:34:58:336 PM : Data Received In HandleClient() : TST
+
+
+03-Oct-2023 12:34:58:338 PM : Success PrepareMessage() :TST
+
+
+03-Oct-2023 12:34:58:339 PM : Data have been Sent in SendMessage() : TST
+
+
+03-Oct-2023 12:34:58:340 PM : Success PrepareMessage() :DONTST
+
+
+03-Oct-2023 12:34:58:341 PM : Data have been Sent in SendMessage() : DONTST
+
+
+03-Oct-2023 12:34:58:506 PM : Data Received In HandleClient() : DMT1
+
+
+03-Oct-2023 12:34:58:507 PM : Success PrepareMessage() :DONDMT
+
+
+03-Oct-2023 12:34:58:509 PM : Data have been Sent in SendMessage() : DONDMT
+
+
+03-Oct-2023 12:34:58:544 PM : Data Received In HandleClient() : DPD19
+
+
+03-Oct-2023 12:34:58:555 PM : Success PrepareMessage() :DPD1639 - OCRDATA - OCRDATA-Test123451639HDA_ALL_VAR
+
+
+03-Oct-2023 12:34:58:557 PM : Data have been Sent in SendMessage() : DPD1639 - OCRDATA - OCRDATA-Test123451639HDA_ALL_VAR
+
+
+03-Oct-2023 12:34:58:557 PM : Success PrepareMessage() :DONDPD
+
+
+03-Oct-2023 12:34:58:558 PM : Data have been Sent in SendMessage() : DONDPD
+
+
+03-Oct-2023 12:34:58:559 PM : Data Received In HandleClient() : DBB1639
+
+
+03-Oct-2023 12:35:00:710 PM : Success PrepareMessage() :DBBBATCHNO_VAROCRDATAEXP_VAR31/07/2025GTIN_VAR78903819165759MFG_VAR03/10/2023HRF_MFG03/10/2023HRF_EXP31/07/2025HRF1_VARHRF2_VARHRF3_VARHRF4_VARHRF5_VARHRF6_VARRegulatoryUS HDA 2017PrinterLabelIDQuantity100ProductdescriptionTesting purposeAvailableQuantity86BatchNumberOCRDATATotalCameraInspected0CameraAccepted0CameraRejected0BatchSize100ProductNameTest12345(01)1(21)2(17)3(10)4(01)78903819165759(17)250731(10)OCRDATAURL0D:\TnTFiles\ServiceLog\SerialNumbers.txt
+
+
+03-Oct-2023 12:35:00:711 PM : Data have been Sent in SendMessage() : DBBBATCHNO_VAROCRDATAEXP_VAR31/07/2025GTIN_VAR78903819165759MFG_VAR03/10/2023HRF_MFG03/10/2023HRF_EXP31/07/2025HRF1_VARHRF2_VARHRF3_VARHRF4_VARHRF5_VARHRF6_VARRegulatoryUS HDA 2017PrinterLabelIDQuantity100ProductdescriptionTesting purposeAvailableQuantity86BatchNumberOCRDATATotalCameraInspected0CameraAccepted0CameraRejected0BatchSize100ProductNameTest12345(01)1(21)2(17)3(10)4(01)78903819165759(17)250731(10)OCRDATAURL0D:\TnTFiles\ServiceLog\SerialNumbers.txt
+
+
+03-Oct-2023 12:35:00:712 PM : Success PrepareMessage() :DONDBB
+
+
+03-Oct-2023 12:35:00:713 PM : Data have been Sent in SendMessage() : DONDBB
+
+
+03-Oct-2023 12:35:06:405 PM : Data Received In HandleClient() : UPSEDPKGR99H3M3F92023-10-03 12:35:06.404I
+
+
+03-Oct-2023 12:35:06:405 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:35:06:406 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:35:06:407 PM : Data Received In HandleClient() : UPSCDP2G2CT1M78ME2023-10-03 12:35:06.404I
+UPS17FB4F45E1GTF32023-10-03 12:35:06.404I
+UPSZ6GF41S1NFF2PH2023-10-03 12:35:06.404I
+UPS4MBDCR2227Z3HT2023-10-03 12:35:06.404I
+UPSDK6KSBC0MEDX0B2023-10-03 12:35:06.404I
+UPS7R4SP1ZPYB4KNN2023-10-03 12:35:06.404I
+UPS8MZPZBT2STY2KY2023-10-03 12:35:06.405I
+UPSRMMA4MPHYS8Z2E2023-10-03 12:35:06.405I
+UPSH5Z7T8YP1T7NX82023-10-03 12:35:06.405I
+
+
+03-Oct-2023 12:35:06:408 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:35:06:408 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:35:06:409 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:35:06:410 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:35:06:410 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:35:06:411 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:35:06:412 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:35:06:413 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:35:06:414 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:35:06:414 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:35:06:415 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:35:06:416 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:35:06:416 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:35:06:418 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:35:06:419 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:35:06:419 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:35:06:420 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:35:06:421 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:35:10:198 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:35:10:199 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:35:10:200 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:35:10:201 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:35:13:532 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:35:13:533 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:35:13:533 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:35:13:534 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:35:15:201 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:35:16:865 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:35:16:866 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:35:16:866 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:35:16:867 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:35:20:198 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:35:20:198 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:35:20:199 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:35:20:200 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:35:20:211 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:35:23:532 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:35:23:532 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:35:23:533 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:35:23:534 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:35:24:284 PM : Data Received In HandleClient() : BSS1639
+
+
+03-Oct-2023 12:35:24:305 PM : Success PrepareMessage() :BSSAccepted0Rejected0Specimen0Sample0Damaged0Challenged0Other0Crypto Exp:
+
+
+03-Oct-2023 12:35:24:306 PM : Data have been Sent in SendMessage() : BSSAccepted0Rejected0Specimen0Sample0Damaged0Challenged0Other0Crypto Exp:
+
+
+03-Oct-2023 12:35:24:307 PM : Success PrepareMessage() :DONBSS
+
+
+03-Oct-2023 12:35:24:307 PM : Data have been Sent in SendMessage() : DONBSS
+
+
+03-Oct-2023 12:35:25:213 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:35:26:866 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:35:26:867 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:35:26:867 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:35:26:868 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:35:30:199 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:35:30:200 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:35:30:200 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:35:30:201 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:35:30:214 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:35:33:283 PM : Data Received In HandleClient() : UPS7E0FHR34CPC0PN2023-10-03 12:35:33.283I
+
+
+03-Oct-2023 12:35:33:284 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:35:33:284 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:35:33:532 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:35:33:533 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:35:33:533 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:35:33:534 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:35:34:315 PM : Data Received In HandleClient() : UCS00DFDatamatrix (GS1) not decoded: 00OF00OF00OFMIT2023-10-03 12:35:34.31400*0r00R#
+
+
+03-Oct-2023 12:35:34:332 PM : Success PrepareMessage() :DONUCS
+
+
+03-Oct-2023 12:35:34:333 PM : Data have been Sent in SendMessage() : DONUCS
+
+
+03-Oct-2023 12:35:35:215 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:35:36:866 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:35:36:866 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:35:36:866 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:35:36:867 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:35:40:199 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:35:40:199 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:35:40:200 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:35:40:201 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:35:40:216 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:35:43:532 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:35:43:533 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:35:43:533 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:35:43:534 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:35:45:216 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:35:46:866 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:35:46:867 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:35:46:867 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:35:46:868 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:35:50:199 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:35:50:199 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:35:50:200 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:35:50:201 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:35:50:217 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:35:53:532 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:35:53:533 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:35:53:533 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:35:53:534 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:35:55:041 PM : Data Received In HandleClient() : UPS1F0E19FP5GB89M2023-10-03 12:35:55.040I
+
+
+03-Oct-2023 12:35:55:042 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:35:55:043 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:35:55:218 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:35:56:054 PM : Data Received In HandleClient() : UCS01DFDatamatrix (GS1) not decoded: 01OF01OF01OFMIT2023-10-03 12:35:56.05301*0r01R#
+
+
+03-Oct-2023 12:35:56:072 PM : Success PrepareMessage() :DONUCS
+
+
+03-Oct-2023 12:35:56:073 PM : Data have been Sent in SendMessage() : DONUCS
+
+
+03-Oct-2023 12:35:56:865 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:35:56:866 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:35:56:867 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:35:56:868 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:36:00:199 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:36:00:200 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:00:201 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:36:00:202 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:36:00:218 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:03:532 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:36:03:533 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:03:534 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:36:03:535 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:36:05:218 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:06:865 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:36:06:866 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:06:866 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:36:06:867 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:36:06:971 PM : Data Received In HandleClient() : UPSC45HPFGA13CY9S2023-10-03 12:36:06.970I
+
+
+03-Oct-2023 12:36:06:972 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:36:06:973 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:36:07:989 PM : Data Received In HandleClient() : UCS02DP(01)78903819165759(21)17FB4F45E1GTF3(17)250731(10)OCRDATA02OFOCR rejected: SN.02OF02OFMIT2023-10-03 12:36:07.98802*0r02R#
+
+
+03-Oct-2023 12:36:08:092 PM : Success PrepareMessage() :DONUCS
+
+
+03-Oct-2023 12:36:08:093 PM : Data have been Sent in SendMessage() : DONUCS
+
+
+03-Oct-2023 12:36:10:198 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:36:10:198 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:10:199 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:36:10:200 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:36:10:230 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:13:531 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:36:13:532 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:13:532 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:36:13:533 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:36:15:231 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:16:865 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:36:16:865 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:16:867 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:36:16:868 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:36:20:198 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:36:20:199 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:20:200 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:36:20:201 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:36:20:233 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:23:531 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:36:23:532 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:23:533 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:36:23:535 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:36:25:030 PM : Data Received In HandleClient() : UPSTNZGH36MS44BEA2023-10-03 12:36:25.029I
+
+
+03-Oct-2023 12:36:25:031 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:36:25:032 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:36:25:244 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:26:093 PM : Data Received In HandleClient() : UCS03DFDatamatrix (GS1) not decoded: 03OF03OF03OFMIT2023-10-03 12:36:26.09203*0r03R#
+
+
+03-Oct-2023 12:36:26:111 PM : Success PrepareMessage() :DONUCS
+
+
+03-Oct-2023 12:36:26:112 PM : Data have been Sent in SendMessage() : DONUCS
+
+
+03-Oct-2023 12:36:26:864 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:36:26:865 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:26:866 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:36:26:866 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:36:30:198 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:36:30:199 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:30:199 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:36:30:200 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:36:30:243 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:33:531 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:36:33:532 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:33:532 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:36:33:533 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:36:33:821 PM : Data Received In HandleClient() : UPS1C13A78NH178KA2023-10-03 12:36:33.819I
+
+
+03-Oct-2023 12:36:33:821 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:36:33:822 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:36:34:844 PM : Data Received In HandleClient() : UCS04DP(01)78903819165759(21)4MBDCR2227Z3HT(17)250731(10)OCRDATA04OF04OF04OFMIT2023-10-03 12:36:34.84304*0r04R#
+
+
+03-Oct-2023 12:36:34:944 PM : Success PrepareMessage() :DONUCS
+
+
+03-Oct-2023 12:36:34:945 PM : Data have been Sent in SendMessage() : DONUCS
+
+
+03-Oct-2023 12:36:35:243 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:36:865 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:36:36:865 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:36:866 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:36:36:867 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:36:40:198 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:36:40:198 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:40:199 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:36:40:200 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:36:40:245 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:43:531 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:36:43:532 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:43:532 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:36:43:533 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:36:45:244 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:46:864 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:36:46:865 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:46:865 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:36:46:866 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:36:50:198 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:36:50:199 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:50:199 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:36:50:200 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:36:50:246 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:53:532 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:36:53:533 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:53:534 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:36:53:535 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:36:55:245 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:56:865 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:36:56:866 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:36:56:866 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:36:56:867 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:37:00:198 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:37:00:198 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:00:199 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:37:00:200 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:37:00:246 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:03:531 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:37:03:531 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:03:532 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:37:03:533 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:37:05:262 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:06:864 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:37:06:865 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:06:865 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:37:06:866 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:37:10:198 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:37:10:199 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:10:199 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:37:10:200 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:37:10:263 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:13:531 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:37:13:531 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:13:532 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:37:13:533 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:37:15:263 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:16:864 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:37:16:864 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:16:865 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:37:16:866 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:37:20:198 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:37:20:199 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:20:199 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:37:20:200 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:37:20:276 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:23:531 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:37:23:531 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:23:532 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:37:23:533 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:37:25:278 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:26:864 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:37:26:865 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:26:865 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:37:26:866 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:37:30:197 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:37:30:198 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:30:198 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:37:30:199 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:37:30:292 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:33:530 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:37:33:531 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:33:531 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:37:33:532 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:37:35:307 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:36:863 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:37:36:864 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:36:864 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:37:36:865 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:37:40:196 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:37:40:198 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:40:198 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:37:40:198 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:37:40:308 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:43:530 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:37:43:531 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:43:531 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:37:43:532 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:37:45:308 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:46:864 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:37:46:865 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:46:866 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:37:46:867 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:37:50:197 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:37:50:198 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:50:199 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:37:50:199 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:37:50:323 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:53:531 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:37:53:532 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:53:532 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:37:53:533 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:37:55:324 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:56:865 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:37:56:866 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:37:56:866 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:37:56:867 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:38:00:198 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:38:00:199 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:00:199 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:38:00:201 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:38:00:324 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:03:531 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:38:03:532 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:03:533 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:38:03:534 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:38:05:340 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:06:864 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:38:06:865 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:06:866 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:38:06:867 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:38:10:197 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:38:10:198 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:10:198 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:38:10:199 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:38:10:340 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:12:000 PM : Data Received In HandleClient() : UPS337E4XBAGXKK8D2023-10-03 12:38:11.999I
+
+
+03-Oct-2023 12:38:12:001 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:38:12:001 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:38:13:018 PM : Data Received In HandleClient() : UCS05DP(01)78903819165759(21)DK6KSBC0MEDX0B(17)250731(10)OCRDATA05OPSNO05OP25073105OFMIT2023-10-03 12:38:13.01705*0r05R#
+
+
+03-Oct-2023 12:38:13:124 PM : Success PrepareMessage() :DONUCS
+
+
+03-Oct-2023 12:38:13:125 PM : Data have been Sent in SendMessage() : DONUCS
+
+
+03-Oct-2023 12:38:13:531 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:38:13:532 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:13:532 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:38:13:533 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:38:15:340 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:16:864 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:38:16:864 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:16:865 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:38:16:866 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:38:20:197 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:38:20:198 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:20:198 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:38:20:199 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:38:20:340 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:23:530 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:38:23:530 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:23:531 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:38:23:532 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:38:25:340 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:26:864 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:38:26:865 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:26:865 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:38:26:866 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:38:30:197 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:38:30:198 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:30:198 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:38:30:199 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:38:30:341 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:33:530 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:38:33:530 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:33:531 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:38:33:532 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:38:35:354 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:36:863 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:38:36:864 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:36:864 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:38:36:865 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:38:40:196 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:38:40:197 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:40:198 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:38:40:199 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:38:40:355 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:40:440 PM : Data Received In HandleClient() : UPSKBXYNE2YDHH5332023-10-03 12:38:40.439I
+
+
+03-Oct-2023 12:38:40:441 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:38:40:442 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:38:41:465 PM : Data Received In HandleClient() : UCS06DP(01)78903819165759(21)7R4SP1ZPYB4KNN(17)250731(10)OCRDATA06OPSNO06OP25073106OFMIT2023-10-03 12:38:41.46406*0r06R#
+
+
+03-Oct-2023 12:38:41:565 PM : Success PrepareMessage() :DONUCS
+
+
+03-Oct-2023 12:38:41:565 PM : Data have been Sent in SendMessage() : DONUCS
+
+
+03-Oct-2023 12:38:43:530 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:38:43:531 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:43:532 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:38:43:532 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:38:45:355 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:46:863 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:38:46:863 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:46:864 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:38:46:865 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:38:50:196 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:38:50:196 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:50:197 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:38:50:198 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:38:50:354 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:53:054 PM : Data Received In HandleClient() : UPSF0ACC4E0GXP37Y2023-10-03 12:38:53.053I
+
+
+03-Oct-2023 12:38:53:055 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:38:53:056 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:38:53:529 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:38:53:530 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:53:531 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:38:53:532 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:38:54:081 PM : Data Received In HandleClient() : UCS07DP(01)78903819165759(21)8MZPZBT2STY2KY(17)250731(10)OCRDATA07OF07OP25073107OFMIT2023-10-03 12:38:54.08007*0r07R#
+
+
+03-Oct-2023 12:38:54:179 PM : Success PrepareMessage() :DONUCS
+
+
+03-Oct-2023 12:38:54:180 PM : Data have been Sent in SendMessage() : DONUCS
+
+
+03-Oct-2023 12:38:55:355 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:56:863 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:38:56:864 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:38:56:864 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:38:56:865 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:38:59:208 PM : Data Received In HandleClient() : UPSNPKA4XP25MT9152023-10-03 12:38:59.207I
+
+
+03-Oct-2023 12:38:59:209 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:38:59:210 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:39:00:196 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:39:00:197 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:00:197 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:39:00:198 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:39:00:223 PM : Data Received In HandleClient() : UCS08DP(01)78903819165759(21)RMMA4MPHYS8Z2E(17)250731(10)OCRDATA08OPSNO08OP25073108OFMIT2023-10-03 12:39:00.22208*0r08R#
+
+
+03-Oct-2023 12:39:00:319 PM : Success PrepareMessage() :DONUCS
+
+
+03-Oct-2023 12:39:00:320 PM : Data have been Sent in SendMessage() : DONUCS
+
+
+03-Oct-2023 12:39:00:356 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:03:529 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:39:03:530 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:03:531 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:39:03:532 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:39:05:357 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:06:862 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:39:06:863 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:06:864 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:39:06:865 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:39:10:196 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:39:10:197 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:10:197 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:39:10:198 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:39:10:370 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:10:675 PM : Data Received In HandleClient() : UPS26YKESFA2CSXZ72023-10-03 12:39:10.674I
+
+
+03-Oct-2023 12:39:10:676 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:39:10:677 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:39:11:697 PM : Data Received In HandleClient() : UCS09DP(01)78903819165759(21)H5Z7T8YP1T7NX8(17)250731(10)OCRDATA09OPSNO09OP25073109OFMIT2023-10-03 12:39:11.69609*0r09R#
+
+
+03-Oct-2023 12:39:11:802 PM : Success PrepareMessage() :DONUCS
+
+
+03-Oct-2023 12:39:11:803 PM : Data have been Sent in SendMessage() : DONUCS
+
+
+03-Oct-2023 12:39:13:529 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:39:13:530 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:13:530 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:39:13:531 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:39:15:371 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:16:862 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:39:16:862 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:16:863 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:39:16:864 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:39:20:196 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:39:20:197 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:20:197 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:39:20:198 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:39:20:388 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:23:530 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:39:23:530 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:23:530 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:39:23:531 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:39:24:835 PM : Data Received In HandleClient() : UPSTMMEZ8NNE95Y2K2023-10-03 12:39:24.834I
+
+
+03-Oct-2023 12:39:24:836 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:39:24:836 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:39:25:388 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:25:851 PM : Data Received In HandleClient() : UCS0ADP(01)78903819165759(21)7E0FHR34CPC0PN(17)250731(10)OCRDATA0AOPSNO0AOP2507310AOFMIT2023-10-03 12:39:25.8500A*0r0AR#
+
+
+03-Oct-2023 12:39:25:946 PM : Success PrepareMessage() :DONUCS
+
+
+03-Oct-2023 12:39:25:947 PM : Data have been Sent in SendMessage() : DONUCS
+
+
+03-Oct-2023 12:39:26:863 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:39:26:864 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:26:864 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:39:26:865 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:39:30:196 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:39:30:197 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:30:197 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:39:30:198 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:39:30:387 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:33:529 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:39:33:530 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:33:531 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:39:33:532 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:39:35:402 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:36:157 PM : Data Received In HandleClient() : UPST0X03YS805Y2M32023-10-03 12:39:36.156I
+
+
+03-Oct-2023 12:39:36:158 PM : Success PrepareMessage() :DONUPS
+
+
+03-Oct-2023 12:39:36:158 PM : Data have been Sent in SendMessage() : DONUPS
+
+
+03-Oct-2023 12:39:36:863 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:39:36:864 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:36:864 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:39:36:865 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:39:37:182 PM : Data Received In HandleClient() : UCS0BDP(01)78903819165759(21)1F0E19FP5GB89M(17)250731(10)OCRDATA0BOPSNO0BOP2507310BOFMIT2023-10-03 12:39:37.1810B*0r0BR#
+
+
+03-Oct-2023 12:39:37:279 PM : Success PrepareMessage() :DONUCS
+
+
+03-Oct-2023 12:39:37:280 PM : Data have been Sent in SendMessage() : DONUCS
+
+
+03-Oct-2023 12:39:40:196 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:39:40:197 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:40:197 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:39:40:198 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:39:40:403 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:43:530 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:39:43:531 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:43:531 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:39:43:532 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:39:45:404 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:46:863 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:39:46:864 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:46:864 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:39:46:865 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:39:50:197 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:39:50:198 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:50:198 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:39:50:199 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:39:50:416 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:53:530 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:39:53:530 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:53:531 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:39:53:532 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:39:55:417 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:56:864 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:39:56:865 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:39:56:865 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:39:56:866 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:40:00:197 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:40:00:198 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:00:198 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:40:00:199 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:40:00:416 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:03:530 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:40:03:530 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:03:531 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:40:03:532 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:40:05:417 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:06:863 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:40:06:864 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:06:864 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:40:06:865 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:40:10:196 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:40:10:197 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:10:197 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:40:10:198 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:40:10:419 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:13:530 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:40:13:531 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:13:532 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:40:13:532 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:40:15:419 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:16:863 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:40:16:864 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:16:864 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:40:16:865 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:40:20:197 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:40:20:198 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:20:199 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:40:20:200 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:40:20:432 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:23:530 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:40:23:531 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:23:532 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:40:23:532 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:40:25:433 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:26:863 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:40:26:864 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:26:865 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:40:26:866 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:40:30:196 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:40:30:197 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:30:198 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:40:30:199 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:40:30:435 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:33:530 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:40:33:531 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:33:531 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:40:33:532 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:40:35:449 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:36:863 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:40:36:864 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:36:864 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:40:36:865 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:40:40:196 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:40:40:197 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:40:197 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:40:40:198 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:40:40:451 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:43:529 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:40:43:530 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:43:530 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:40:43:531 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:40:45:452 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:46:862 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:40:46:863 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:46:863 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:40:46:864 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:40:50:195 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:40:50:196 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:50:196 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:40:50:197 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:40:50:462 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:53:529 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:40:53:530 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:53:530 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:40:53:531 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:40:55:463 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:56:862 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:40:56:863 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:40:56:863 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:40:56:864 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:41:00:195 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:41:00:196 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:00:196 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:41:00:197 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:41:00:465 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:03:528 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:41:03:529 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:03:529 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:41:03:530 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:41:05:465 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:06:861 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:41:06:862 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:06:862 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:41:06:863 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:41:10:194 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:41:10:195 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:10:195 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:41:10:196 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:41:10:466 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:13:528 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:41:13:529 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:13:529 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:41:13:530 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:41:15:467 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:16:861 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:41:16:862 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:16:863 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:41:16:864 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:41:20:195 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:41:20:196 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:20:197 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:41:20:197 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:41:20:479 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:23:529 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:41:23:530 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:23:530 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:41:23:531 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:41:25:480 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:26:862 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:41:26:863 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:26:864 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:41:26:865 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:41:30:195 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:41:30:196 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:30:197 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:41:30:199 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:41:30:481 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:33:528 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:41:33:529 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:33:529 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:41:33:530 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:41:35:482 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:36:862 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:41:36:863 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:36:863 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:41:36:864 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:41:40:195 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:41:40:196 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:40:196 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:41:40:197 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:41:40:495 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:43:529 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:41:43:530 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:43:530 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:41:43:531 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:41:45:496 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:46:862 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:41:46:863 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:46:863 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:41:46:864 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:41:50:195 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:41:50:196 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:50:196 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:41:50:197 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:41:50:509 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:53:528 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:41:53:529 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:53:529 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:41:53:530 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:41:55:509 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:56:862 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:41:56:863 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:41:56:863 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:41:56:864 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:42:00:196 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:42:00:196 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:00:197 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:42:00:198 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:42:00:510 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:03:529 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:42:03:530 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:03:531 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:42:03:532 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:42:05:511 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:06:863 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:42:06:864 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:06:865 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:42:06:866 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:42:10:196 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:42:10:197 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:10:198 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:42:10:198 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:42:10:510 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:13:529 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:42:13:530 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:13:530 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:42:13:531 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:42:15:511 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:16:862 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:42:16:862 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:16:863 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:42:16:864 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:42:20:195 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:42:20:196 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:20:196 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:42:20:197 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:42:20:512 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:23:528 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:42:23:529 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:23:529 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:42:23:530 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:42:25:513 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:26:861 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:42:26:862 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:26:862 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:42:26:863 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:42:30:194 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:42:30:195 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:30:195 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:42:30:196 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:42:30:512 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:33:528 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:42:33:529 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:33:529 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:42:33:530 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:42:35:513 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:36:861 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:42:36:862 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:36:862 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:42:36:863 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:42:40:194 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:42:40:195 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:40:196 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:42:40:197 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:42:40:514 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:43:528 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:42:43:529 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:43:530 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:42:43:531 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:42:45:516 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:46:861 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:42:46:862 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:46:863 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:42:46:864 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:42:50:194 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:42:50:195 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:50:195 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:42:50:196 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:42:50:527 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:53:528 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:42:53:529 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:53:529 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:42:53:530 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:42:55:528 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:56:861 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:42:56:862 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:42:56:862 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:42:56:863 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:43:00:194 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:43:00:195 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:00:196 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:43:00:197 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:43:00:542 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:03:527 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:43:03:528 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:03:529 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:43:03:530 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:43:05:557 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:06:860 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:43:06:861 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:06:862 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:43:06:862 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:43:10:193 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:43:10:194 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:10:195 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:43:10:195 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:43:10:558 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:13:527 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:43:13:528 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:13:529 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:43:13:530 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:43:15:559 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:16:860 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:43:16:861 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:16:862 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:43:16:863 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:43:20:195 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:43:20:196 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:20:197 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:43:20:198 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:43:20:557 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:23:528 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:43:23:529 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:23:530 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:43:23:531 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:43:25:559 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:26:862 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:43:26:863 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:26:863 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:43:26:864 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:43:30:196 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:43:30:198 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:30:200 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:43:30:201 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:43:30:560 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:33:530 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:43:33:531 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:33:532 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:43:33:532 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:43:35:573 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:36:863 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:43:36:864 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:36:865 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:43:36:866 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:43:40:196 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:43:40:197 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:40:198 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:43:40:198 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:43:40:574 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:43:530 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:43:43:530 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:43:531 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:43:43:532 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:43:45:575 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:46:864 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:43:46:864 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:46:865 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:43:46:866 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:43:50:198 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:43:50:199 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:50:199 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:43:50:200 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:43:50:576 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:53:531 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:43:53:532 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:53:532 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:43:53:533 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:43:55:576 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:56:865 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:43:56:866 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:43:56:866 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:43:56:867 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:44:00:198 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:44:00:199 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:44:00:199 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:44:00:200 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:44:00:589 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:44:03:532 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:44:03:533 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:44:03:533 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:44:03:534 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:44:05:590 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:44:06:866 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:44:06:867 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:44:06:868 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:44:06:869 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:44:10:199 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:44:10:200 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:44:10:201 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:44:10:202 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:44:10:591 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:44:13:532 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:44:13:533 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:44:13:534 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:44:13:534 PM : Data have been Sent in SendMessage() : DONGOM
+
+
+03-Oct-2023 12:44:15:603 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:44:16:866 PM : Data Received In HandleClient() : GOM
+
+
+03-Oct-2023 12:44:16:867 PM : Data have been Sent in SendMessage() : GOM1
+
+
+03-Oct-2023 12:44:16:868 PM : Success PrepareMessage() :DONGOM
+
+
+03-Oct-2023 12:44:16:869 PM : Data have been Sent in SendMessage() : DONGOM
+
